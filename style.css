@@ -1,0 +1,26 @@
+h1 {
+    font-weight: bolder;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+}
+
+h2 {
+    font-weight: bold;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.potion {
+    padding-left: 40px;
+}
+
+body {
+    background-image: url(game-background-7980_imgs_7980_4.jpg)
+}
